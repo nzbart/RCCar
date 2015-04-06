@@ -1,9 +1,4 @@
-// ask_reliable_datagram_client.pde
-// -*- mode: C++ -*-
-// Example sketch showing how to create a simple addressed, reliable messaging client
-// with the RHReliableDatagram class, using the RH_ASK driver to control a ASK radio.
-// It is designed to work with the other example ask_reliable_datagram_server
-// Tested on Arduino Mega, Duemilanova, Uno, Due, Teensy
+// data => D12
 
 #include <RHReliableDatagram.h>
 #include <RH_ASK.h>
